@@ -48,13 +48,10 @@ La gráfica usa negro profundo, rojo de luces traseras, magenta nocturno y ámba
 
 ### Capturas para la entrega
 
-Antes de entregar, agrega aquí tres capturas propias de la plataforma en uso:
+<img width="1920" height="1080" alt="Captura de pantalla (16)" src="https://github.com/user-attachments/assets/b4c16ca2-904b-4994-b18c-8d1abedff072" />
+<img width="1920" height="1080" alt="Captura de pantalla (15)" src="https://github.com/user-attachments/assets/9426ba69-a670-46e2-8094-40baefa5f4cd" />
+<img width="1920" height="1080" alt="Captura de pantalla (14)" src="https://github.com/user-attachments/assets/cbba20bd-175e-4c4f-a9a1-c953952ba083" />
 
-1. Interfaz completa con **RETROVISOR** activo y el osciloscopio visible.
-2. Una cuadrícula de varias filas con una zona cian disparada.
-3. La lista de eventos y un banco de ruta distinto seleccionado.
-
-Esto permite documentar que las decisiones gráficas y el sistema funcionan en la versión final publicada.
 
 ## 4. Reflexión
 
